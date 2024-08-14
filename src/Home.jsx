@@ -14,17 +14,17 @@ import sound from './assets/paysandu.mp3';
 const prizes = [
   {
     id: "1",
-    image: "./public/images/rock.png",
+    image: "/images/rock.png",
     text: "Pedra",
   },
   {
     id: "2",
-    image: "./public/images/paper.png",
+    image: "/images/paper.png",
     text: "Papel",
   },
   {
     id: "3",
-    image: "./public/images/scissors.png",
+    image: "images/scissors.png",
     text: "Tesoura",
   },
 ];
